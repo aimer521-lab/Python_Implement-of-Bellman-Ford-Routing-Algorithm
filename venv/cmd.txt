@@ -1,0 +1,3 @@
+cd D:\1\study\cse\y3\CAN201(CSE205)\cw2
+
+python main.py --node
